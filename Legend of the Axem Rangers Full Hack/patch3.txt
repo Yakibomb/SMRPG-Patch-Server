@@ -1,7 +1,0 @@
-Title: Legend of the Axem Rangers
-Version 2.0
-Author: AnAxemRanger
-Description: Pretty awesome game
- (Go, World!)
-Patch: AxemRangersVER2.0.ips
-Screens: AxemRangersVER20_00001.png
