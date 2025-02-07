@@ -1,0 +1,18 @@
+Parser for Patches on the Server
+The parser identifies what text lines go where.
+Any additional tags will make a new line.
+Most useful for long descriptions, multiple Images and/or Categories
+Write out the file as such:
+-----------------------
+    Title:        //  Name of the hack (Can also just have name of hack as the first line without "Title:" to parse)
+    Author:       //  Author (parser also accepts "Authors:")
+    Version:      //  Version Number
+    Patch:        //  Patch file name
+    Size:         //  File size
+    Date:         //  Release Date
+    Description:  //  short description
+    Features:     //  Technical features
+    Image:        //  Preview image
+    Website:      //  Site, website, forum thread, etc
+    Category:     //  How LS categorizes this (LS creates new categories and can sort by category)
+    Favorite:     //  Can write anything here and it'll tag this as favorite
