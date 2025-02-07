@@ -15,4 +15,4 @@ Write out the file as such:
     Image:        //  Preview image
     Website:      //  Site, website, forum thread, etc
     Category:     //  How LS categorizes this (LS creates new categories and can sort by category)
-    Favorite:     //  Can write anything here and it'll tag this as favorite
+    Recommend:    //  Can write anything here, it'll tag the patch with a star and add a "Recommended" category
