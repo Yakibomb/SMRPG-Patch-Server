@@ -8,8 +8,8 @@ Write out the file as such:
     Author:       //  Author (parser also accepts "Authors:")
     Version:      //  Version Number
     Patch:        //  Patch file name
-    Size:         //  File size
-    Date:         //  Release Date
+    Size:         //  File size of patch
+    Date:         //  Release/Creation Date
     Description:  //  short description
     Features:     //  Technical features
     Image:        //  Preview image
