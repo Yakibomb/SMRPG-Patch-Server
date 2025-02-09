@@ -1,5 +1,10 @@
 Title: Ashes to Ashes
-Author: Sukasa 
+Author: Sukasa (Acmlm Kafuka BoardII)
 Description: A simple demo showcasing a little bit of what SMRPG can do. 
-
-Discussion: http://acmlm.kafuka.org/board/thread.php?id=4596 
+//Website: http://acmlm.kafuka.org/board/thread.php?id=4596 
+Patch: Ashes to Ashes2.ips
+Size: 679 KB
+Tag: Demo
+Image: Ashes to Ashes2_00005.png
+Image: Ashes to Ashes2_00008.png
+Image: Ashes to Ashes2_00009.png
