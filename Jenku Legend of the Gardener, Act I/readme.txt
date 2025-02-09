@@ -1,0 +1,6 @@
+Jenku: Legend of the Gardener, Act I 
+Author: Hanto 
+Description: After saving the Mushroom Kingdom yet again, Mario still feels the urge to help people. Some time during a lunar eclipse in June, Mario receives an unsigned letter from the mail carrier Toad. For what ever reason that possesses him, Mario feels he must travel to a mysterious town, to help those who may need his heroic expertise. 
+Features: 0% battles, 100% questing action. 
+
+Thread: http://acmlm.kafuka.org/board/thread.php?id=7388 
