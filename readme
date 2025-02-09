@@ -9,10 +9,10 @@ Write out the file as such:
     Authors:      //  same as above for several authors, separated by commas ,
     Version:      //  Version Number
     Date:         //  Release/Creation Date
-    Patch:        //  Patch file name. Needs file extension (i.e. ".ips")
+    Patch:        //  Patch file name. Needs file extension (i.e. ".ips" or ".bps")
     Size:         //  File size of patch
     Description:  //  short description
-    Image:        //  Preview image. Format like Image: Image.png|Short Description
+    Image:        //  Preview image, needs file extension (".jpg" ".bmp" ".png" ".gif"). Format like Image: Image.png|Short Description
     Website:      //  Site, website, forum thread, social media, etc
     Tag:          //  How LS categorizes this patch (LS creates new categories and can sort by category)
     Tags:         //  Same as above, separate with commas ,
