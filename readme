@@ -4,7 +4,7 @@ Any additional tags will make a new line.
 Most useful for long descriptions, multiple Images and/or Categories
 Write out the file as such:
 -----------------------
-    Title:        //  Name of the patch (Can also omit without "Title:" to parse and just have the name be on line one)
+    Title:        //  Name of the patch (Can also omit without "Title:" and keep name on first line)
     Author:       //  Author of the patch
     Authors:      //  same as above for several authors, separated by commas ,
     Version:      //  Version Number
