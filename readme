@@ -4,15 +4,16 @@ Any additional tags will make a new line.
 Most useful for long descriptions, multiple Images and/or Categories
 Write out the file as such:
 -----------------------
-    Title:        //  Name of the hack (Can also just have name of hack as the first line without "Title:" to parse)
-    Author:       //  Author (parser also accepts "Authors:")
+    Title:        //  Name of the patch (Can also omit without "Title:" to parse and just have the name be on line one)
+    Author:       //  Author of the patch
+    Authors:      //  same as above for several authors, separated by commas ,
     Version:      //  Version Number
-    Patch:        //  Patch file name
-    Size:         //  File size of patch
     Date:         //  Release/Creation Date
+    Patch:        //  Patch file name. Needs file extension (i.e. ".ips")
+    Size:         //  File size of patch
     Description:  //  short description
-    Features:     //  Technical features
-    Image:        //  Preview image
-    Website:      //  Site, website, forum thread, etc
-    Category:     //  How LS categorizes this (LS creates new categories and can sort by category)
-    Recommend:    //  Can write anything here, it'll tag the patch with a star and add a "Recommended" category
+    Image:        //  Preview image. Format like Image: Image.png|Short Description
+    Website:      //  Site, website, forum thread, social media, etc
+    Tag:          //  How LS categorizes this patch (LS creates new categories and can sort by category)
+    Tags:         //  Same as above, separate with commas ,
+    Recommend:    //  Can write anything here, it'll tag the patch with a star and add to the "Recommended" category
