@@ -4,3 +4,4 @@ Description: Includes 5-digit damage, 4-digit HP, custom event + battlescript. L
 Tag: Assembly Hack
 Image: smrpg_00000.png
 Image: smrpg_00001.png
+Patch: smrpg_demo.ips
