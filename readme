@@ -5,15 +5,17 @@ Most useful for long descriptions, multiple Images and/or Categories
 Write out the file as such:
 -----------------------
     Title:        //  Name of the patch (Can also omit without "Title:" and keep name on first line)
-    Author:       //  Author of the patch
-    Authors:      //  same as above for several authors, separated by commas ,
+    Author:       //  Author(s) of the patch, separated by commas ,
+    Authors:      //  ""
     Version:      //  Version Number
     Date:         //  Release/Creation Date
     Patch:        //  Patch file name. Needs file extension (i.e. ".ips" or ".bps")
     Description:  //  short description
     Image:        //  Preview image, needs file extension (".jpg" ".bmp" ".png" ".gif"). 
                   //      Format like Image: Image.png|Short Description
-    Website:      //  Site, website, forum thread, social media, etc
-    Tag:          //  How LS categorizes this patch (LS creates new categories and can sort by category)
-    Tags:         //  Same as above, separate with commas ,
+    Website:      //  Site: , Website: , Link: , for community discussion
+    Tag:          //  Categorizes this patch (LS creates new categories and can sort by category). Separate with commas ,
+    Tags:         //  ""
     Recommend:    //  Can write anything here, it'll tag the patch with a star and add to the "Recommended" category
+    Favorite:     //  ""
+    Recommended:  //  ""
