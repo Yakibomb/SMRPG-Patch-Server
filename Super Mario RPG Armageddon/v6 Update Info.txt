@@ -1,0 +1,379 @@
+Version 6.1 Upgrades:
+
+This Upgrade was made to balace the difficulty of the game. I fixed a few things on the way.
+
+First..I need to say that those of you who played version 6.0 and want to load from where you where, you may. Your stats my be too high or too low depending on how you leveled them up. Example, Mario may end up having 255+ defense without Stell shell Armor! Conside yourself lucky if this happens. Or you may even have a funny HP number..which means you have over 1000 HP. Play a new game to experience the difficulty that was meant. If my Math was correct, using Stell Shell armor will be the ONLY way to reach 255+ Defense, making it a very important item.
+
+New "GOD" BOSS: Jinx!! Go to the GOD BOSS Section for details.
+
+Some monsters have been tweaked here and there....
+
+P-Down/D-Up:
+
+------------
+
+I'm sorry guys, but using this with the Stell Shell breaks the game and makes the Boss Rush too easy. I've come to the conclusion that it must go, and I changed it to another item. However..I added more defense points for the party in multiple ways. It's possible for all members to reach 240+ Defense without using this item now.
+
+Metal Cap:
+
+----------
+
+This replaced P-Down/D-Up. Naturally, only Mario can use it. It raises his defense by 12, which is higher than any other accessory he can use other than the Crystal Ring. it also raises attack by 75, magic defense by 17, and buffs attack and physical defense. To finish it off, this item blocks thunder, ice, fire, AND death attacks! Of course it slows him down little.....Those of you who have p-dpwn/D-Up already on another party member from 6.0, once they take it off, they can't put it back on.
+
+Thunder Staff:
+
+--------------
+
+Just like thor's Hammer, this weapon now has TWO timings! Keep it for life, for it's actually mallow's best attack weapon late game when the foe is weak to thunder. If you sell it, it's gone for good! Use the Holy Rod when you know you'll only use magic.
+
+Some of you may have Geno doing a Holyja spell, which was a mistake on my part. It doesn't do extra damage like Peach's though. The New link has the fix.
+
+Not much of an Upgrade I know, but again this is mainly to balance to difficulty and force more tactics over than tanking with Stell Shell and P-Down/D-Up.
+
+I've made some last minute upgrades to the game. I won't spoil these pleasant and NASTY surpises. You'll just have to stumble on them....
+
+FIRST...
+
+I want to say sorry for the hold up..but the bugs kept coming and coming.
+
+SECOND...
+
+I want to thank everybody for baring with me and informing me of the bugs from the beta version. I can't belive how much I missed. I've done a few things to the game that makes it wise to start a new game. You don't HAVE to though......unless you come acroos some bugs. if you see something funny like People on screen when not suppose to be,
+
+or open doors locked again, then yeah, you'll need to start over.
+
+Most of the major changes take place late game.
+
+Elemental Weapons:
+
+------------------
+
+Perhaps the biggest upgrade. Many weapons have been giving an element(Ice, Fire, and Thunder). If the monster is weak to
+
+that element, they take double damage. If they resist it, they take 0 damage! This forces you to be more tactical. Of
+
+course I'll be increasing the HP of certain monsters because of this. Every ally has at least 1 weapon with an element
+
+attack. Mario has one for all 3. It's possible to attack for 3,000+!!!
+
+Any weapons you get from treasure chest or special events can only be obtained once. If you sell it, it's gone for good.
+
+Be careful, as some elemental weapons are obtained this way.
+
+Bowser's Keep:
+
+--------------
+
+Most levels haven't changed a bit but Bowser's keep is completly different. For starters, the 6 Door rooms are all
+
+connected! You won't do the Barrel counting, 21 coin chest, or the marathon event thing. But everything else is there. It
+
+seems like you have infinite tries, but I hacked it to where you have up to 266 tries. I don't see how anybody can fail
+
+this many times. If for some reason you do, you'll suffer the same fate as you would for failing one of Dr. Tropper's
+
+Quizes. Speaking of which.....
+
+As I said, you won't do the Barrel counting 21 coin chest, or the marathon event thing. But you will do the other 3. I
+
+added a nasty surprise for those who fail one of these. If you've played Paper Mario, I shouldn't have to tell you what
+
+happens if you fail.....However..there's a reward for winning this difficult battle. There are a few other surprises in there that you'll
+
+surely stumble on....
+
+Smithy:
+
+-------
+
+Smithy's not pulling any punches this time.....
+
+The first fight hasn't changed at all..but the second one is a lot different than it was before.
+
+Ending/Post Game:
+
+----------------
+
+I've been thinking...and who here hasn't seen the ending a thousand times??
+
+A new feature that i've been working on. I got it to work..and it wasn't easy might I add...many offical games have this
+
+feature. After beating smithy...you will continuing playing the game. Mario will return to the Pipe house using the
+
+opening event when toad ran into the house. It's a little buggy, but unharmful. It's not a new game plus...you simply
+
+keep playing the game instead of it ending it. You'll recieve 50 frog coins every time you do this.
+
+Boss Rush:
+
+-----------
+
+In the room with Magikoopa..the right door leads to Boomer, and the left door leads to the Boss Rush. However, this
+
+time..the boss rush is inacessable until you've completed the main game! The Boss rush is complelty different than before.
+
+Go to the Boss rush page for updted info.
+
+For starters..all 6 rooms are connected. Next..I added the Smithy Gang into the mix!! Losing a battle will return you to
+
+Magikoopa's room..even on the Final boss. That fight is no longer a Game Over.
+
+New Level:
+
+-----------
+
+This level in inaccesible until you FULLY complete the Boss rush.
+
+You will notice something funny in the game..some rooms have been skipped. Rooms that I find to be compleltly useless, I
+
+removed them so I can use those exits to make a new level for the post game. This is because the game can only hold so
+
+much information before it bugs up like crazy. A good example is the entrance to the throne room in the Mushroom Kingdom.
+
+This room is 3 steps big. Another is the water house in Rose Town. Did you really ever go in there?
+
+The level isn't really NEW..it's a custom made level using unused areas from the game. It's 5 rooms with a few battles.
+
+The game's toughest normal monsters come together here. This level will also include suped up versions of the monsters
+
+previously lost in older versions, like Gorgon and Strawhead.(I think C4 wanted me to bring them back..^_^) The point to
+
+fighting these monsters is that they often drop the game's rarest items.
+
+Hidden Element:
+
+---------------
+
+Noticed how you can jump on foes you normally couldn't? I find it pointless to make foes weak to jump when I can make this
+
+element more useful. I used this element and gave it to a few items, spells, and weapons..making them do massive damage.
+
+EVERY monster in the game is weak to this element.
+
+You'll notice that Bowser's normal attacks do a lot of damage...and rightfully so. All of his claw weapons and the Chomp
+
+use the hidden element...turning him into the physical powerhouse he was meant to be. Use the Hurly Gloves or the Fire
+
+Chomp when you want him to use magic more. Most if the Ultimate weapons also use this hidden element.
+
+Monster Changes:
+
+---------------
+
+-You will notice that Gunyonk, Countdown, and Corkepte are gone. They have been replaced with other monsters. The
+
+countdown sequence bugged up too much. So I removed the room and turned the Bells and Countdown into other monsters.
+
+Stumpet will pick up where corkpete left off...
+
+The fight with 'GUNYOK" just got more interesting....I won't spoil it for you. ^_^ You'll see when you get there.
+
+-The Master fight in the ship has been moved to the third fight with Jinx. You win the Bombs away AND Jinx belt after
+
+victory. Another monster has taken it's place in the ship.
+
+-Dark Bahamut is no longet in Bowser's Keep. He's moved. I won't tell you where he is.
+
+-New Super Boss..King Bomb. Once the fight begins, you'll understand the terms. It's possible to beat it after at least
+
+one ally has 376+ HP.
+
+-Magikoopa is now VERY HARD to beat..unless you bring a certain party member to the fight....Beating him at his full power
+
+will net you LOTS of EXP and the exclusive Aura Stone! But the only way this can be done is if you're over leveled. If you
+
+fight him at full power at that point, he'll most likely wipe you out on the first turn.
+
+Physical Elemental Attacks
+
+--------------------------
+
+Some monsters will use an attack that seems like an element, but it's actually a physical attack that can't be blocked by
+
+elementals guard items. Example, Bowser shoots flame at you, but it's a physical attack. Some monsters use a special
+
+Shocker, others will use a Physical shocker. Ice Rock physical attack is a death hit if not blocked.
+
+Death Attacks:
+
+--------------
+
+There are 10 death attacks in the game:
+
+Banish, Black Hole, Bomb, Death Scythe, Ice Sickle, Impale, Killer Fang, Knife, Smithy Bullet Bill, and KABOOM! Ice
+
+Sickle, Killer Fang, and knife can be blocked down to 1 HP...or no damage if blocked perfectly.
+
+Black Hole, Death Scythe, Smithy Bill, Bomb, and Impale must be blocked by equipment unless they miss outright...for they
+
+are not 100% accurate anymore.
+
+Banish is exlusive to a certain monster, and it won't use it if you're invicible.
+
+KABOOM cannot be blocked at all.
+
+-Only the following items will block Death attacks: Super Ribbon, Super Suit, Luigi Hammer, Safety Pin, Steel Shell Armor.
+
+Items and Equipments:
+
+--------------------
+
+-Many weapons have new ways to be obtained.
+
+-The Steel Shell Armor will remain unchanged for the most. Speed will drop by ALOT NOW. Also, the monster you need to beat
+
+to get it will be extremely difficult to beat.
+
+-Ribbon and Super Ribbon have higher increases now.
+
+-New Accessory..Aura Ring..one of the Semi-Ultimate items.
+
+The Energy Stone made the other damage items useless, so I'm adding effects to them:
+
+-Fire Bomb will burn the enemy. This is actually poison, but there's no difference. Some monsters will be immune to it of
+
+course. It works on some of the super bosses.
+
+-Ice Bomb put's enemies to sleep. This will even work on a few bosses!
+
+-Electric Bomb will lower the monster's stats for 3 turns, so it's basically fear. Useful for when you're not using
+
+Bowser.
+
+Semi Ultimate Items:
+
+--------------------
+
+These items are sold in Sea Side in the frog coin shop. They will be the overall strongest items from that point until the
+
+factory. By then you'll want to get stronger ones. The catch?? Your frog coin of course.
+
+Weird Mushroom:
+
+---------------
+
+This item can help you or hurt you. It fully restores HP, but the game think it's reviving you. So it resests the ally s
+
+if they came back to life. In other words..if you're using equipment that buffs stats, it will reset if it was de-buffed.
+
+If you buffed them up in battle and they are not using buff equipmentm the buffs will be removed. A very nice item to use
+
+with equipment that buffs stats.
+
+Holy Stone/Crystal:
+
+-------------------
+
+The Holy Stone and Holy Crystals have limited use, and should be used for that purpose. They do decent damage to foes at
+
+early stages of the game. But their main use is their effect on undead monsters.
+
+The Holy Crystal has been suped up. Now it will do 9,999 to most undead bosses. The Holy Stone is a weaker version, but
+
+it's eaiser to get. Both of these instantly defeat most normal undead monsters. Some other monsters take extra damage from these as
+
+well..like Box Box(a Ghost is in the chest ^_^) Remember that the Holy Ring and Holy Rod DO NOT
+
+have these effects.
+
+The Aura Stone:
+
+---------------
+
+Remember that broken item you get in version 5 for beating culex? You get ONE free one in the main game. For those
+
+of you who never used it in verion 4.9, this item breaks the game..especially if you have super jump. It's now called the aura stone.
+
+I recommend saving the free one for which ever fight is giving you the most trouble. In most cases..this will be the Master or the
+
+Final Boss in the Boss Rush.
+
+There are only 3 ways to get this item:
+
+-You need to beat Magikoopa in Bowser's Keep at his full power. Overleveling is the only way to do this.
+
+-Find all hidden treasures, then recieve in monstro town.
+
+-Defeat Culex.
+
+Culex will give you one upon victory, but you'll most likely use one to beat him anyway. ^_^ This is the easy way
+
+out. This item pretty much ensures your victory if Mario has learned Super Jump. So if you can live with yourself after
+
+using it, then by all means. I'm not sure if you can get the Frog coin in the Mushroom Kingdom after Toad leaves the room,
+
+so the Aura Stone in Monstro Town may be missiable.
+
+Magic Potion:
+
+--------------
+
+I had a much better name for this item, but the game glitched wehen I use it....
+
+Only time will tell if this item breaks the game. This is the final item you now get from the miner. It heals 255 HP to
+
+the group..that's it. It doesn't heal status effects like Elixir and Megalixir. So what's the big deal? Use it and you'll
+
+see.
+
+Culex:
+
+------
+
+^_^ This one's a dozy...The door doesn't dissapear. This time, you can now fight him as many times as you wish! Of..he won't give you a choice once you meet him. He's hard as hell. Even I can barely beat it.
+
+Dr. Tropper:
+
+------------
+
+This time, ALL of his questions are clues to help you get threw the game. Some of them are very important clues.
+
+TOADSTOOL:
+
+------------------
+
+She will from now on be called "Peach" in this hack. Oh yeah..Psycho Boom is gone. She has a new spell now..and you're going to use it a lot. She throws a bomb as one of her weapons instead.
+
+Monster attacks:
+
+----------------------
+
+You will see a few new custome made attacks later on in the game.
+
+I've come to the conclusion that those atatcks that ignore defense(meteor, Water Blast, ect... are very cheap and unfair sometimes. So I modified it a littlte. Most of those attacks now have a chance to miss you completly! The more Powerful ones (like Meteor) have a high chance to miss. Note that the Uber attacks from the 2 God Bosses will always hit.
+
+Level Up changes:
+
+-------------------------
+
+I've modified the state growth for every character in the game. it's possible for every character to reach 999 HP. But it requires them to use ALL HP bonuses. But If you do that, their other stats may be low. Pay attention to the Level up bonuses and know when to pick what. it's very important for the Boss Rush. Mix and Match with all kinds of combinations and conquer this hack!! For those of you who started on version 6 beta, it's up to you if you want to start a new game or not. If you don't..your HP/stats may be too low..or too high!!!
+
+Example: Using all HP Bonuse on Peach with the Steel Shell Armor makes her almost unkillable. And she can still fight back with her powerful magic. Just watch out for those Fixed Damage attacks.
+
+Misc changes:
+
+-------------
+
+-The Writing is a little bigger, and the screen is blue.
+
+-Remember those annoying dialoge bugs towards the end of the game? They've been fixed. ^_^
+
+-Jumping on wiggler 10 times gives you THREE frog coins now. I increased it since it's kind of hard to do.
+
+-Some boss fights have different battle scripts now.
+
+-The game starts with 10 FP again instead of 5.
+
+-In older versions, you could still get a seed in bean valley after Smilax. I changed it to a flower box.
+
+-Due to bugs from the update, Star blast(Meteor Blast) has now been changed to energy blast, but it's the same thing.
+
+-Your Special attacks will no longer miss. I've been told that this was very annoying. As a trade off, some enemies will
+
+be tougher.
+
+A lot of work went into this one. I really hope I didn't miss any serious bugs. It' very easy to bug up something when you
+
+change things. If anybody find any serious bugs..inform me immediatly!!
+
+Enjoy playing version 6...which will most likely be the final update..unless I finally learn how to pass level 30.
