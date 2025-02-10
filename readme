@@ -1,10 +1,65 @@
-Parser for Patches on the Server
-The parser identifies what text lines go where.
-Any additional tags will make a new line.
-Most useful for long descriptions, multiple Images and/or Categories
-Write out the file as such:
+----------------------------------------------
+    SMRPG LAZYSHELL++ DEFAULT PATCH SERVER
+----------------------------------------------
+LAZYSHELL++ can connect to one or several patch servers within the editor, under "Patches".
+This repository is the default server.
+
+------------------------------------------------------
+    How it works, aka How To Setup Your Own Server
+------------------------------------------------------
+LAZYSHELL++ connects to the websites you put into its settings.
+
+For example, this is the default server:
+https://github.com/Yakibomb/SMRPG-Patch-Server/
+
+For github servers, LS++ adds the extension "blob/main/" to the website 
+    https://github.com/Yakibomb/SMRPG-Patch-Server/blob/main/
+For websites that aren't github, LS++ would add "patches" instead of "blob/main"
+
+Using the above site as a base, LS++ then tries to connect to a file called "patches"
+    https://github.com/Yakibomb/SMRPG-Patch-Server/blob/main/patches
+
+In "patches", is a list of patch folders it tries to access.
+Each line is a folder LS++ tries to access.
+    https://github.com/Yakibomb/SMRPG-Patch-Server/blob/main/[patch folder]/patchinfo
+
+For each folder, LS++ tries to access "patchinfo", which contains all the details for your patch.
+The parser for the patch is at the bottom of this readme.
+
+...
+
+The above method is enough to make a one version of your patch appear on your server.
+But what about if you had version 1, version 2, version 3, etc of the same patch?
+
+By default, LS++ tries to access "patchinfo" and "patchinfo1". If either are found, it continues on to try "patchinfo2", "patchinfo3", etc.
+Each patchinfo is a separate version for your patch. Each patch can be accessed by a drop-down menu in the Patches window.
+
+-------------------------------------------------------
+    Parser for "patchinfo" -- What You Need to Know
+-------------------------------------------------------
+The parser for patchinfo identifies what text lines go where.
+Each line needs the label, separated by a space (except the first line, which is reserved for the name/title of the patch)
+
+Note:
+ - The ips patch (and a readme, if desired) needs to be in the folder of your patchinfo
+ = readme must be a .txt, and there can only be one (and only one) readme.txt PER PATCH FOLDER
+ - Additionally, any files specified need file extensions ( example: myPatch.ips )
+ = It does have some security, only ".ips" ".bps" extensions are allowed
+ = Image extensions allowed are: ".jpg" ".bmp" ".png" ".gif"
+ - Each label needs to be separated with a space for the parser to recognize it
+ = Correct: "Author: Bobby" , INCORRECT: "Author:Bobby"
+ - The first line is usually reserved for the name of the patch if there are no labels present
+ = This isn't enforced, any label can be there
+ - Authors and Categories can have several entries on the same line, separated by commas ,
+ - Images are supported, in addition to having a short caption (separated by | ). Example:
+ = Image: myPreview.png|This game stinks!
+ - Max Images per patchinfo is 4, and the amount of images downloaded can be adjusted on the fly in the LS++ Patches window.
+ - If you plan on having multiple versions of a patch hosted on your server, add a version number.
+
+All properties are listed below:
 -----------------------
-    Title:        //  Name of the patch (Can also omit without "Title:" and keep name on first line)
+    Name:         //  Display name for the patch (Can also omit without "Name: " and keep patch's name on first line)
+    Title:        //  ""
     Author:       //  Author(s) of the patch, separated by commas ,
     Authors:      //  ""
     Version:      //  Version Number
@@ -17,6 +72,7 @@ Write out the file as such:
     Website:      //  Site: , Website: , Link: , for community discussion
     Tag:          //  Categorizes this patch (LS creates new categories and can sort by category). Separate with commas ,
     Tags:         //  ""
+    Categories:   //  ""
     Recommend:    //  Can write anything here, it'll tag the patch with a star and add to the "Recommended" category
     Favorite:     //  ""
     Recommended:  //  ""
