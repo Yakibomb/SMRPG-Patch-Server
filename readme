@@ -10,7 +10,7 @@ This repository is the default server.
 LAZYSHELL++ connects to the websites you put into its settings.
 
 For example, this is the default server:
-https://github.com/Yakibomb/SMRPG-Patch-Server/
+    https://github.com/Yakibomb/SMRPG-Patch-Server/
 
 For github servers, LS++ adds the extension "blob/main/" to the website 
     https://github.com/Yakibomb/SMRPG-Patch-Server/blob/main/
@@ -20,8 +20,8 @@ Using the above site as a base, LS++ then tries to connect to a file called "pat
     https://github.com/Yakibomb/SMRPG-Patch-Server/blob/main/patches
 
 In "patches", is a list of patch folders it tries to access.
-Each line is a folder LS++ tries to access.
-    https://github.com/Yakibomb/SMRPG-Patch-Server/blob/main/[patch folder]/patchinfo
+Each line is a folder LS++ tries to access. This example uses the patch folder OREFFEZEPS
+    https://github.com/Yakibomb/SMRPG-Patch-Server/blob/main/OREFFEZEPS/patchinfo
 
 For each folder, LS++ tries to access "patchinfo", which contains all the details for your patch.
 The parser for the patch is at the bottom of this readme.
