@@ -37,8 +37,8 @@ Each patchinfo is a separate version for your patch. Each patch can be accessed 
 -------------------------------------------------------
     Parser for "patchinfo" -- What You Need to Know
 -------------------------------------------------------
-The parser for patchinfo identifies what text lines go where.
-Each line needs the label, separated by a space (except the first line, which is reserved for the name/title of the patch)
+The parser for patchinfo identifies what text lines go where in the Patches window.
+Each line needs the label for LS++ to parse, separated by a space (except the first line, which is reserved for the name/title of the patch)
 
 Note:
  - The ips patch (and a readme, if desired) needs to be in the folder of your patchinfo
