@@ -2,7 +2,7 @@ Title: (ASM) Muscle Patch
 Author: giangurgolo
 Size: 6.94 KB
 Date: August 24, 2006
-Description: Increases max health to 9999, and damage multiplies by 17x.
+Description: Increases character max HP to 9999, and multiplies damage 17x.
 Desc: Assembly code in readme.txt
 Patch: smrpg_demo.ips
 Categories: Assembly Hack
