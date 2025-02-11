@@ -42,7 +42,7 @@ Each line needs the label, separated by a space (except the first line, which is
 
 Note:
  - The ips patch (and a readme, if desired) needs to be in the folder of your patchinfo
- = readme must be a .txt, and there can only be one (and only one) readme.txt PER PATCH FOLDER
+ = readme must be a .txt ("readme.txt"), it must be all lowercase, and there can only be one (and only one) readme.txt PER PATCH FOLDER
  - Additionally, any files specified need file extensions ( example: myPatch.ips )
  = It does have some security, only ".ips" ".bps" extensions are allowed
  = Image extensions allowed are: ".jpg" ".bmp" ".png" ".gif"
