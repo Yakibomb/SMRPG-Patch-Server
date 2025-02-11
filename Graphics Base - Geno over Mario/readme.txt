@@ -1,3 +1,5 @@
+These are sprite hacks only. All stats, levels, scripts, etc. are deliberately untouched. All work was done within LS's Sprites tab or external programs.
+
 GOAL: This is a small collection of hacks each intended for use as a base for a complete project. I wanted to create something that anyone could use to jumpstart progress for their SMRPG hacking project or, perhaps, to inspire one. My intention was to alter the game in one aspect as much as possible so as to create a solid backdrop to work from, and to do so without interfering with any other steps in the process.
 
 PURPOSE: To relieve others from hours of gruntwork. By doing this, I thought I could provide both incentive for and a headstart on creating any such hack where the main character is someone other than Mario! I'm sure everyone likes that idea.
