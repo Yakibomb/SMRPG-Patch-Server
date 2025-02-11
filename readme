@@ -53,7 +53,7 @@ Note:
  - Authors and Categories can have several entries on the same line, separated by commas ,
  - Images are supported, in addition to having a short caption (separated by | ). Example:
  = Image: myPreview.png|This game stinks!
- - Max Images per patchinfo is 4, and the amount of images downloaded can be adjusted on the fly in the LS++ Patches window.
+ - Max Images per patchinfo is 4. The amount of images downloaded can be adjusted on the fly in the LS++ Patches window.
  - If you plan on having multiple versions of a patch hosted on your server, add a version number.
 
 All properties are listed below:
