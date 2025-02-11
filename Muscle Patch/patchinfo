@@ -1,7 +1,8 @@
 Title: Muscle Patch
 Author: giangurgolo
-Size: 6.94KB
+Size: 6.94 KB
 Date: August 24, 2006
-Description: Muscle Patch for SMRPG
+Description: Increases max health to 9999, and damage multiplies by 17x.
+Desc: Assembly code in readme.txt
 Patch: smrpg_demo.ips
 Categories: Assembly Hack
