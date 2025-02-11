@@ -16,12 +16,12 @@
 | II.           Information          |
 | III.          Copyright Info       |
 | IV.           SECRET BONUS SECTION |
- ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯
  
 =====  I. Instructions  =======================================================
 
     First you're going to need a copy of the Super Mario RPG (U) rom. I dunno
-  where to get it lol ¯\_(°.o)_/¯ Then, once you have the rom you're going to
+  where to get it lol Â¯\_(Â°.o)_/Â¯ Then, once you have the rom you're going to
   need an IPS Patching program. I use Lunar IPS. If you have a headered rom,
   use the "[Killa B] SMRPG Hack Headered.ips" file. If your rom is unheadered,
   you should use the "[Killa B] SMRPG Hack Unheadered.ips" file. If you have no
