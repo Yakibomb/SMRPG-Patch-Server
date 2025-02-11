@@ -1,9 +1,8 @@
 Function Demo
 Author: giangurgolo
 Description: Includes 5-digit damage, 4-digit HP, custom event + battlescript. Load the .ZST and talk to the bed lamp.
-Tag: Assembly Hack
+Tags: Demo, Assembly Hack
 Image: smrpg_00000.png
 Image: smrpg_00001.png
 Patch: smrpg_demo.ips
-Tags: Demo, Assembly Hack
 Size: 6.95 KB
