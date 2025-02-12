@@ -65,6 +65,7 @@ All properties are listed below:
     Patch:        //  Patch file name. Needs file extension (i.e. ".ips" or ".bps")
     Size:         //  Size of patch file (auto-calculated if "Verify IPS Patch" is on)
     Description:  //  short description
+    Desc:         //  "" (if ever you need extra lines in description)
     Image:        //  Preview image, needs file extension (".jpg" ".bmp" ".png" ".gif"). 
                   //      Format like Image: Image.png|Short Description
     Website:      //  Site: , Website: , Link: , for community discussion
