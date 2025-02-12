@@ -46,8 +46,6 @@ Note:
  - Additionally, any files specified need file extensions ( example: myPatch.ips )
  = It does have some security, only ".ips" ".bps" extensions are allowed
  = Image extensions allowed are: ".jpg" ".bmp" ".png" ".gif"
- - Each label needs to be separated with a space for the parser to recognize it
- = Correct: "Author: Bobby" , INCORRECT: "Author:Bobby"
  - The first line is usually reserved for the name of the patch if there are no labels present
  = This isn't enforced, any label can be there
  - Authors and Categories can have several entries on the same line, separated by commas ,
