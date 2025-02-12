@@ -2,7 +2,10 @@ Title: (ASM) Muscle Patch
 Author: giangurgolo
 Size: 6.94 KB
 Date: August 24, 2006
-Description: Includes 5-digit damage, 4-digit HP, multiplies damage 17x.
+Description: Changes Include:
+Desc: - 4-digit HP for allies
+Desc: - Displays 5 digits when 9999+ damage is dealt
+Desc: - attack has been increased 17x
 Desc: 
 Desc: Assembly code in readme.txt
 Patch: smrpg_demo.ips
