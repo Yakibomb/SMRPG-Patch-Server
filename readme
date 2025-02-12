@@ -44,7 +44,7 @@ Each patch can be accessed by a drop-down menu in the Patches window.
 -------------------------------------------------------
     How to Setup "patchinfo" -- About the Parser
 -------------------------------------------------------
-NOTE: Check "z_Test" folder for example of how to write a patchinfo.
+NOTE: Check "z_Words from Yaki" folder for example of how to write a patchinfo.
 
     The parser for patchinfo identifies what text lines go where in the Patches window.
 Each line needs the label for LS++ to parse, separated by a space (except the first line, which is reserved for the name/title of the patch)
