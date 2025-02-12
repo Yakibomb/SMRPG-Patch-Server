@@ -79,7 +79,9 @@ All properties are listed below:
     Desc:         //  "" (if ever you need extra lines in description)
     Image:        //  Preview image, needs file extension (".jpg" ".bmp" ".png" ".gif"). 
                   //      Format like Image: Image.png|Short Description
-    Website:      //  Site: , Website: , Link: , for community discussion
+    Website:      //  For community discussion, youtube previews, etc
+    Site:         //  ""
+    Link:         //  ""
     Tag:          //  Categorizes this patch (LS creates new categories and can sort by category). Separate with commas ,
     Tags:         //  ""
     Categories:   //  ""
