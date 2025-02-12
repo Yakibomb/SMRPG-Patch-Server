@@ -3,5 +3,7 @@ Author: giangurgolo
 Size: 1.58KB
 Date: May 17, 2010
 Description: Introduces 6 new items that enhance Mario and other characters' abilities in/out of battle.
+Desc:  
+Desc: readme.txt contains all ASM used in this hack.
 Patch: smrpg_CI.ips
 Categories: Assembly Hack
