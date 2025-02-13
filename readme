@@ -51,7 +51,7 @@ Each line needs the label for LS++ to parse, separated by a space (except the fi
 
 Notes:
  - The ips patch (and a readme, if desired) needs to be in the folder of your patchinfo, with file type extension
- = patch must be a ".ips" or ".bps" ( example-- Patch: myPatch.ips )
+ = patch must be a ".ips" ( example-- Patch: myPatch.ips )
  = readme must be a ".txt" (must be named "readme.txt"), and there can only be one readme.txt PER PATCH FOLDER
  = Image must be ".jpg" ".bmp" ".png" or ".gif"
  - The first line is usually reserved for the name of the patch if there are no labels present
@@ -73,7 +73,7 @@ All properties are listed below:
     Authors:      //  ""
     Version:      //  Version Number
     Date:         //  Release/Creation Date
-    Patch:        //  Patch file name. Needs file extension (i.e. ".ips" or ".bps")
+    Patch:        //  Patch file name. Needs file extension ".ips"
     Size:         //  Size of patch file (auto-calculated if "Verify IPS Patch" is on)
     Description:  //  short description
     Desc:         //  "" (if ever you need extra lines in description)
