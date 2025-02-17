@@ -4,7 +4,7 @@ Description: Includes 5-digit damage, 4-digit HP, custom event + battlescript. L
 Desc: 
 Desc: (.ZST Save State found in Website link)
 Desc: readme.txt includes all ASM used in this hack.
-Tags: Flagship Hack, Patch (ASM)
+Tags: Flagship Hack, ASM
 Image: smrpg_00000.png
 Image: smrpg_00001.png
 Patch: smrpg_demo.ips
