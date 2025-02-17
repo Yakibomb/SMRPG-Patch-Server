@@ -38,41 +38,41 @@ C2/4607 E2 20
 	F0 45		; jump if not equal
 	
 	BF 40 00 7E	; Check for all ailments
-	F0 3D		; branch if not equal
+	F0 3D		; branch to end if not equal
 	
 	89 02 		; Check for Sleep 
 	F0 0A  		; jump if not equal
-	A9 08 		;
+	A9 08 		
 	85 E0 
-	A9 06 
-	85 E4 
-	80 2F 		
+	A9 06 		; sequence 06
+	85 E4 		; Sets new sequence
+	80 2F 		; jump to end
 	
 	89 08 		; Check for Fear
-	F0 0A
+	F0 0A		; jump to next check if not equal
 	A9 08
 	85 E0
-	A9 0B
-	85 E4 
-	80 21 		
+	A9 0B		; sequence 11 (fear shaking)
+	85 E4 		; Set new sequence
+	80 21 		; jump to end
 	
 	89 01 		; Check for Mute
-	F0 06
-	A9 0D 
-	85 E4 
-	80 17 
-	89 04 
-	F0 06 
-	
-	A9 3C 
-	85 EE 
-	80 0D 
+	F0 06		; jump to next check if not equal
+	A9 0D 		; sequence 13 (Mute slouch)
+	85 E4 		; Set new sequence
+	80 17		; jump to end
+
+	89 04 		; Check for Poison
+	F0 06		; jump to next check if not equal
+	A9 3C 		; palette 4 (0x0F * 4)
+	85 EE 		; Set new palette
+	80 0D 		; jump to end
 	
 	89 10 		; Check for Berserk
 	A9 08
 	85 E0 
-	A9 07 		; "07" is the sprite sequence
-	85 E4 
+	A9 07 		; sequence 07 (head bobbing up-and-down)
+	85 E4 		; Sets new sequence
 	
 	EA		; NOP
 	EA 		;
