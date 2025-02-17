@@ -42,7 +42,7 @@ C2/4607 E2 20
 	
 	89 02 		; Check for Sleep 
 	F0 0A  		; jump if not equal
-	A9 08 		
+	A9 08 		; sprite looping bit flag?
 	85 E0 
 	A9 06 		; sequence 06
 	85 E4 		; Sets new sequence
@@ -50,7 +50,7 @@ C2/4607 E2 20
 	
 	89 08 		; Check for Fear
 	F0 0A		; jump to next check if not equal
-	A9 08
+	A9 08		; sprite looping bit flag?
 	85 E0
 	A9 0B		; sequence 11 (fear shaking)
 	85 E4 		; Set new sequence
@@ -69,7 +69,7 @@ C2/4607 E2 20
 	80 0D 		; jump to end
 	
 	89 10 		; Check for Berserk
-	A9 08
+	A9 08		; sprite looping bit flag?
 	85 E0 
 	A9 07 		; sequence 07 (head bobbing up-and-down)
 	85 E4 		; Sets new sequence
