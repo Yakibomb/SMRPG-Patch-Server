@@ -25,11 +25,11 @@ When an ally has this ailment, the battle portraits (Sprites 40-44) change to se
     ASM
 ------------
 
-C2/BDE8 EA EA		; Removes filter for the unused ailment
+C2/BDE8 EA EA		; Removes code that originally filtered out the unused ailment
 
-C2/BE44 EA EA		; Removes filter for the unused ailment
+C2/BE44 EA EA		; Removes code that originally filtered out the unused ailment
 
-C2/A135 20 34 AC	; target randomly only from pool of mortal monsters on battlefield 
+C2/A135 20 34 AC	; JSR to target random only from pool of mortal monsters on battlefield 
 			; Notes: $C2/AB96 targets random ally (including themselves), $C2/AC34 targets random monster (including themselves), $C2/AD25 targets random anyone on field (including themselves)
 
 C2/4607 E2 20 
