@@ -25,16 +25,16 @@ When an ally has this ailment, the battle portraits (Sprites 40-44) change to se
     ASM
 ------------
 
-C2/BDE8 EA EA			; Removes filter for the unused ailment
+C2/BDE8 EA EA		; Removes filter for the unused ailment
 
-C2/BE44 EA EA			; Removes filter for the unused ailment
+C2/BE44 EA EA		; Removes filter for the unused ailment
 
-C2/A135 20 34 AC		; target randomly only from pool of mortal monsters on battlefield 
+C2/A135 20 34 AC	; target randomly only from pool of mortal monsters on battlefield 
 						; Notes: $C2/AB96 targets random ally, $C2/AC34 targets random monster, $C2/AD25 targets random ally or monster
 
 C2/4607 E2 20 
 	BF 43 00 7E	; Check for ailment timer
-	C9 04		; see if ally has timer of 4 (aka had just gotten applied by ailment)
+	C9 04		; see if ally has timer of 4 (aka ailment had just gotten applied)
 	F0 45		; jump if not equal
 	
 	BF 40 00 7E	; Check for all ailments
@@ -74,7 +74,7 @@ C2/4607 E2 20
 	A9 07 		; "07" is the sprite sequence
 	85 E4 
 	
-	EA			; NOP
-	EA 			;
-	EA 			;
+	EA		; NOP
+	EA 		;
+	EA 		;
 C2/4654 C2 20
