@@ -1,0 +1,13 @@
+(ASM) Restore Unused Beserk Ailment
+Author: Yaki
+Date: February 17, 2025
+Patch: (ASM) Berserk Patch v1.ips
+Tag: Assembly Hack
+Description: The Berserk status is an unused ailment in Super Mario RPG.
+Desc: What is does, by default, is forces the one afflicted with the ailment to use a physical attack on a random target, without disgression of being a friend, themselves, or foe.
+Desc: This patch fixes being able to apply the ailment on allies, and provides a few aesthetic fixes in the ASM.
+Desc: 
+Desc: It works only on allies (for now). If applied to a monster, the monster always misses.
+Desc: 
+Desc: This does /not/ change anything outside of the ASM, so it is safe to apply to any ROM file.
+Desc: If, for any reason, you want to apply the code in the patch manually, the ASM is at the bottom of this document.
