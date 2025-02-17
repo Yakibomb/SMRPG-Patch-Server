@@ -11,4 +11,4 @@ Desc:
 Desc: It works only on allies (for now). If applied to a monster, the monster always misses (this is a bug from the original game).
 Desc: 
 Desc: This does /not/ change anything outside of the ASM, so it is safe to apply to any ROM file.
-Desc: If, for any reason, you want to apply the code in the patch manually, the ASM is at the bottom of this document.
+Desc: ASM is in the readme.
