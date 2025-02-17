@@ -2,7 +2,7 @@
 Author: Yaki
 Date: February 17, 2025
 Patch: (ASM) Berserk Patch v1.ips
-Tag: Patch (ASM)
+Tag: ASM
 Description: The Berserk status is an unused ailment in Super Mario RPG.
 Desc: What is does, by default, is forces the one afflicted with the ailment to use a physical attack on a random target, without disgression of being a friend, themselves, or foe.
 Desc: This patch fixes being able to apply the ailment on allies, and provides an aestheic fix in the ASM (makes the character's head bob up and down).
