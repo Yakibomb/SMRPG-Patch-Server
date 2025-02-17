@@ -30,7 +30,7 @@ C2/BDE8 EA EA		; Removes filter for the unused ailment
 C2/BE44 EA EA		; Removes filter for the unused ailment
 
 C2/A135 20 34 AC	; target randomly only from pool of mortal monsters on battlefield 
-						; Notes: $C2/AB96 targets random ally, $C2/AC34 targets random monster, $C2/AD25 targets random ally or monster
+			; Notes: $C2/AB96 targets random ally, $C2/AC34 targets random monster, $C2/AD25 targets random ally or monster
 
 C2/4607 E2 20 
 	BF 43 00 7E	; Check for ailment timer
