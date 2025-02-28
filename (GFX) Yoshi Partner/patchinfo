@@ -3,10 +3,10 @@ Author: Yaki
 Date: February 27, 2025
 Patch: (GFX) Yoshi Partner.ips
 Description: Graphics for Green Yoshi as a playable partner. Includes:
-Desc: - necessary graphics (most battle sprites, including portrait and ailment frames).
+Desc: - battle graphics (including portrait and ailment frames).
 Desc: - palettes (normal, poisoned, underwater) Also includes Blue Yoshi and Yellow Yoshi palettes
 Desc: 
-Desc: Does not include any frames for attacking, you have to make those on your own.
+Desc: Does not include any frames for attacking or emotives, you have to make those on your own.
 Desc: 
 Desc: Export the graphics and animation data in the Sprites editor, then import into your own hacks.
 Image: 1.png
